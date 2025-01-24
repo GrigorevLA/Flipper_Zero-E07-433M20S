@@ -8,3 +8,5 @@
 Макерт переходной платы для модуля E07-433M20S к flipper Zero
 
 ![Макет платы для E07-433](https://github.com/user-attachments/assets/c8ff7283-364f-4f41-970c-4284ee9469c4)
+
+Gerber файл находится в папке проекта.
